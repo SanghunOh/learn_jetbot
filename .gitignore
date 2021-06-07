@@ -2,3 +2,5 @@
 **/*pth
 **/dataset*
 **/*.swp
+**/*.engine
+**/*.tflite
